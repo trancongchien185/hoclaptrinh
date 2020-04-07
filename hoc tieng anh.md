@@ -21,6 +21,7 @@
 21. peruasion: thuyết phục
 22. productive: sản suất
 23. satisfaction: sự thỏa mãn, sự hài lòng 
+Nhớ phải học thuộc trước khi nộp nghe chưa!
 
 
 

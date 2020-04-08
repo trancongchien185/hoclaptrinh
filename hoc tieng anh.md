@@ -43,5 +43,26 @@
 Nhớ phải học thuộc trước khi nộp nghe chưa!
 >>>>>>> .r12
 
+1. Thì hiện tại đơn –present simple
+Công thức với động từ thường: 
+khẳng định: s + v(s/es) + o
+phủ định: S + do/does not + V_inf + o
+nghi vấn: do/does + s + v_inf + o?
+công thức với động từ tobe:
+khẳng định: s + am/is/are + o
+phủ định: s + am/is/are  not + o
+nghi vấn: am/is/are + s + o
+cách dùng:diễn tả một sự thật hiển nhiên một chân lý
+diễn tả một thói quen sở thích hay hành động được lặp đi lặp lại ở hiện tại
+diễn tả một lịch trình chương trình một thời gian biểu
+dấu hiệu nhận biết thì hiện tại đơn: Trong câu thường có những từ chỉ tần suất như:everyday/night/week, often, usually, always, sometimes,…
 
-
+2. Thì hiện tại tiếp diễn–present continuous tense
+công thức:khẳng định: s + am/is/are + v_ing + …
+phủ định: s + am/is/are not + v_ing + …
+nghi vấn: am/is/are + s + v_ing + …?
+cách dùng:diễn tả hành động đang xảy ra và kéo dài ở hiện tại.
+diễn tả dự định, kế hoạch sắp xảy ra trong tương lai đã định trước
+diễn tả sự phàn nàn về việc gì đó dùng với “always”
+dùng để cảnh báo đề nghị và mệnh lệnh
+dấu hiệu nhận biết thì hiện tại tiếp diễn:trong câu thường có những cụm từ chỉ thời gian sau sau: now, at the moment, at present, right now, look, listen, be quiet.…

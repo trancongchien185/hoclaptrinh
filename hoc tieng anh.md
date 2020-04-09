@@ -66,3 +66,10 @@ diễn tả dự định, kế hoạch sắp xảy ra trong tương lai đã đ�
 diễn tả sự phàn nàn về việc gì đó dùng với “always”
 dùng để cảnh báo đề nghị và mệnh lệnh
 dấu hiệu nhận biết thì hiện tại tiếp diễn:trong câu thường có những cụm từ chỉ thời gian sau sau: now, at the moment, at present, right now, look, listen, be quiet.…
+
+1. ingredient:thành phần
+2. flavor:hương vị
+3. bond:trái phiếu
+4. chemical reaction:phản ứng hóa học
+5. separate:riêng biệt 
+6. refuse:từ chối

@@ -73,3 +73,72 @@ dấu hiệu nhận biết thì hiện tại tiếp diễn:trong câu thường 
 4. chemical reaction:phản ứng hóa học
 5. separate:riêng biệt 
 6. refuse:từ chối
+ 
+1. examining the engine 
+2. gazing at the scenery
+3. staring up at the mountain
+4. looking through the window
+5. checking her rellection in the mirror
+6. checking her watch
+7. taking notes
+8. writing something down
+9. writing on some paper
+10. drinking trom a cup
+11. eating a meal
+12. handing a letter
+13. holding a tool
+14. moving the cartous
+15. carrying some chairs
+16. doing two things at once
+17. making a copy
+18. fidying up her computer
+20. making a call
+21. hanging up the phone
+22. talking on the phone
+23. putting on his shoes
+24. trying on some clothes
+25. wearing a shift
+26. adjusting her glasses
+27. buttoning up his uniform
+28. taking off his sweater
+29. putting on his shoes
+30. trying on some clothes
+31. wearing a shirt
+32. adjusting her glasses
+33. buttoning up his uniform
+34. taking off his sweater
+35. folding his arms
+36. holding onto the railing
+37. leaning foward the display
+38. has gloves on
+39. removing her headset
+40. resting the bay on her lap
+
+1. being forn down
+2. being weighed
+3. being put away 
+4. be filled with books
+5. be left open
+6. be located against the wall
+7. be piled up
+8. hanging from the ceiling
+9. leaning against the door
+10. rising above the water
+11. running through the field
+
+1. be assembled for
+2. be gathered together
+3. having a meeting
+4. addressing one is collesgue
+5. be interviewed
+6. chatting with each other
+7. greeting each ofther 
+8. having a discussion
+9. shaking hands
+10. arm in arm
+11. be inn adjacent seats
+12. be lined up the door
+13. tacing each other
+14. sharing a bench 
+15. side by side
+16. siting across from each other

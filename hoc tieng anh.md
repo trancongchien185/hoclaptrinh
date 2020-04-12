@@ -74,71 +74,69 @@ dấu hiệu nhận biết thì hiện tại tiếp diễn:trong câu thường 
 5. separate:riêng biệt 
 6. refuse:từ chối
  
-1. examining the engine 
-2. gazing at the scenery
-3. staring up at the mountain
-4. looking through the window
-5. checking her rellection in the mirror
-6. checking her watch
-7. taking notes
-8. writing something down
-9. writing on some paper
-10. drinking trom a cup
-11. eating a meal
-12. handing a letter
-13. holding a tool
-14. moving the cartous
-15. carrying some chairs
-16. doing two things at once
-17. making a copy
-18. fidying up her computer
-20. making a call
-21. hanging up the phone
-22. talking on the phone
-23. putting on his shoes
-24. trying on some clothes
-25. wearing a shift
-26. adjusting her glasses
-27. buttoning up his uniform
-28. taking off his sweater
-29. putting on his shoes
-30. trying on some clothes
-31. wearing a shirt
-32. adjusting her glasses
-33. buttoning up his uniform
-34. taking off his sweater
-35. folding his arms
-36. holding onto the railing
-37. leaning foward the display
-38. has gloves on
-39. removing her headset
-40. resting the bay on her lap
-
-1. being forn down
-2. being weighed
-3. being put away 
-4. be filled with books
-5. be left open
-6. be located against the wall
-7. be piled up
-8. hanging from the ceiling
-9. leaning against the door
-10. rising above the water
-11. running through the field
-
-1. be assembled for
-2. be gathered together
-3. having a meeting
-4. addressing one is collesgue
-5. be interviewed
-6. chatting with each other
-7. greeting each ofther 
-8. having a discussion
-9. shaking hands
-10. arm in arm
-11. be inn adjacent seats
-12. be lined up the door
-13. tacing each other
-14. sharing a bench 
-15. side by side
-16. siting across from each other
+1. examining the engine : ra động cơ
+2. gazing at the scenery: ngắm cảnh
+3. staring up at the mountain: nhìn lên núi
+4. looking through the window: nhìn qua cửa sổ
+5. checking her rellection in the mirror: kiểm tra sự nổi loạn của cô ấy trong gương
+6. checking her watch: kiểm tra đồng hồ của cô ấy
+7. taking notes: ghi chép
+8. writing something down: viết một cái gì đó xuống
+9. writing on some paper: viết trên giấy
+10. drinking trom a cup: uống trom một cốc
+11. eating a meal: ăn một bữa
+12. handing a letter: trao thư
+13. holding a tool: cầm một công cụ
+14. moving the cartous: di chuyển sụn
+15. carrying some chairs: mang theo một số ghế
+16. doing two things at once: làm hai việc cùng một lúc
+17. making a copy: tạo một bản sao
+18. fidying up her computer: dọn dẹp máy tính của cô ấy
+20. making a call: thực hiện cuộc gọi
+21. hanging up the phone: cúp điện thoại
+22. talking on the phone: nói chuyện điện thoại
+23. putting on his shoes: đi giày
+24. trying on some clothes: thử quần áo
+25. wearing a shift: mặc ca
+26. adjusting her glasses: điều chỉnh kính của cô ấy
+27. buttoning up his uniform: cài nút đồng phục
+28. taking off his sweater: cởi áo len của anh ấy
+29. putting on his shoes: đi giày
+30. trying on some clothes: thử quần áo
+31. wearing a shirt: mặc áo
+32. adjusting her glasses: điều chỉnh kính của cô ấy
+33. buttoning up his uniform: cài nút đồng phục
+34. taking off his sweater: cởi áo len của anh ấy
+35. folding his arms: khoanh tay
+36. holding onto the railing: giữ chặt lan can
+37. leaning foward the display: nghiêng về phía trước màn hình
+38. has gloves on: có găng tay trên
+39. removing her headset: tháo tai nghe của cô ấy
+40. resting the bay on her lap: đặt vịnh trên đùi cô ấy
+1. being forn down: bị bỏ rơi
+2. being weighed: được cân
+3. being put away : bị đưa đi
+4. be filled with books: chứa đầy sách
+5. be left open: để ngỏ
+6. be located against the wall: được đặt trên tường
+7. be piled up: được chất đống
+8. hanging from the ceiling: treo trên trần nhà
+9. leaning against the door: dựa vào cửa
+10. rising above the water: nổi lên trên mặt nước
+11. running through the field: chạy qua cánh đồng
+1. be assembled for: được lắp ráp cho
+2. be gathered together: được tập hợp lại với nhau
+3. having a meeting: có một cuộc họp
+4. addressing one is collesgue: giải quyết một là đối tác
+5. be interviewed: được phỏng vấn
+6. chatting with each other: trò chuyện với nhau
+7. greeting each ofther : chào hỏi nhau
+8. having a discussion: có một cuộc thảo luận
+9. shaking hands: bắt tay
+10. arm in arm: cánh tay trong cánh tay
+11. be inn adjacent seats: là nhà trọ liền kề
+12. be lined up the door: được xếp hàng
+13. tacing each other: chọc nhau
+14. sharing a bench : chia sẻ một băng ghế
+15. side by side: bên cạnh nhau
+16. siting across from each other: ngồi đối diện

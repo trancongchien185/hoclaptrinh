@@ -140,3 +140,61 @@ dấu hiệu nhận biết thì hiện tại tiếp diễn:trong câu thường 
 14. sharing a bench : chia sẻ một băng ghế
 15. side by side: bên cạnh nhau
 16. siting across from each other: ngồi đối diện
+
+1. be crowded with people: được đông đảo mọi người
+2. be filled with people: được lấp đầy bởi mọi người
+3. be full of people: đầy người
+4. be grouped together: được nhóm lại với nhau
+5. chatting in small groups: trò chuyện trong nhóm nhỏ
+6. some people are upplauding: một số người đang nâng cấp
+7. be shielded from the sun: được che chắn khỏi ánh nắng mặt trời
+8. sishing on the shore: Sishing trên bờ
+9. relaxing on the lawn: thư giãn trên bãi cỏ
+10. sunbathing on the beach: tắm nắng trên bãi biển
+11. walking along the pier:  đi bộ dọc theo bến tàu
+12. waving to their friends:  vẫy tay với bạn bè của họ
+13. be arranged in rows:  được sắp xếp theo hàng
+14. be arranged in rows:  được sắp xếp theo hàng
+15. be occupied:  bị chiếm đóng
+16. be packed with:  được đóng gói với
+17. be taken: được lấy
+18. be empty: để trống
+
+1. be arranged in a line: được sắp xếp trong một dòng
+2. be lined up: được xếp hàng
+3. be piled up on the table: chất đống trên bàn
+4. be piled next to the table: được chất đống bên cạnh bàn
+5. be laid end toend: được đặt cuối cùng
+6. each side of the table: mỗi bên của bàn
+7. be attached to the wall: được gắn vào tường
+8. be covered with boarda: được phủ bằng ván
+9. be display for sale: được trưng bày để bán
+10. be left open: để ngỏ
+11. be loaded onto the truck: được tải lên xe tải
+12. ba parked in the garage: ba đậu trong nhà để xe
+13. be placed on its side: được đặt về phía nó
+14. be fied up at the shore: bị đánh đập ở bờ biển
+15. be stracked on the table: bị mắc kẹt trên bàn
+16. have fallen on the floor: đã ngã trên sàn
+17. curtains have been pulled shut: rèm cửa đã được kéo đóng
+18. chairs have been set aside: ghế đã được đặt sang một bên
+
+1. drifting out to sea: trôi ra biển
+2. flowing over the rock: chảy trên đá
+3. be floating on the water: nổi trên mặt nước
+4. over looking the water: nhìn qua nước
+5. be reflected in: được phản ánh trong
+6. passing each other on the water: truyền nhau trên mặt nước
+7. be tossed about: bị ném về
+8. going through the woods: đi xuyên qua rừng
+9. running through the woods: chạy xuyên qua rừng
+10. passing through a forest: đi qua một khu rừng
+11. be scatt ered through: được tán tỉnh qua
+12. be built in a similar style: được xây dựng theo phong cách tương tự
+13. be completely bare: hoàn toàn trần
+14. extending across: kéo dài qua
+15. be deserted: bị bỏ hoang
+16. be for apart: dành cho nhau
+17. be surrounded by: được bao quanh bởi
+18. be taller than the building: cao hơn tòa nhà
+

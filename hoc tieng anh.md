@@ -198,3 +198,83 @@ dấu hiệu nhận biết thì hiện tại tiếp diễn:trong câu thường 
 17. be surrounded by: được bao quanh bởi
 18. be taller than the building: cao hơn tòa nhà
 
+1 what do you do for a living?
+-I'm a scientits
+1 bạn làm gì để kiếm sống?
+-Tôi là một nhà khoa học
+
+2 what's wrong with this copier
+-I think it is jammed
+2 cái gì sai với máy photocopy này
+-Tôi nghĩ nó bị kẹt
+
+3 what should i do with this file?
+-put it on my desk, please
+3 Tôi nên làm gì với tập tin này?
+xin vui lòng đặt nó trên bàn của tôi
+
+4. what did the supervisior say about your vacation request?
+-i haven't told him about it yet
+4 người giám sát nói gì về yêu cầu nghỉ phép của bạn?
+-tôi chưa nói với anh ấy về điều đó
+
+5 what do you think will happen?
+-it's hand to tell right  now
+5 bạn nghĩ điều gì sẽ xảy ra?
+- đó là bàn tay để nói ngay bây giờ
+
+6 what would you like fo dinner?
+-let's get some italian
+6 bạn muốn ăn gì?
+-let nhận được một số tiếng Ý
+
+1 what time will the meeting begin?
+-when the mana ger comes back
+1 Cuộc họp sẽ bắt đầu lúc mấy giờ?
+-Khi mana ger trở lại
+
+2 what day did you arrive here
+-i came in last friday
+2 ngày bạn đã đến đây
+-tôi đến vào thứ sáu tuần trước
+
+3 what date will the shipment arrive
+-i haven't heard yet
+3 ngày giao hàng sẽ đến
+-tôi chưa nghe
+
+4 what kind of bay do you want
+-some thing small and light
+4 loại vịnh nào bạn muốn
+-một số điều nhỏ và nhẹ
+
+5 what sort of position are you looking for
+-i'd like to be a reporter
+5 loại vị trí bạn đang tìm kiếm
+-tôi muốn trở thành một phóng viên
+
+6 what color shirt would you like
+-the blue one looks nice
+6Bạn thích màu áo nào
+-Màu xanh trông rất đẹp.
+
+
+1 which can is yours
+-the one parked at hte corner
+1 cái có thể là của bạn
+-Một cái đậu ở góc hte
+
+2 which book is written by shaw
+-the handcover on the top shelf
+2 cuốn sách được viết bởi khăn choàng
+- bao tay trên kệ trên cùng
+
+3 which of you revised this article
+-jane did it yesterday
+3 bạn đã sửa bài viết này
+-jane đã làm nó ngày hôm qua
+
+4 which of these monitors do you want to buy
+-i like the bigger one
+4 cái màn hình nào bạn muốn mua
+-tôi thích cái lớn hơn

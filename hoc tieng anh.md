@@ -278,3 +278,55 @@ xin vui lòng đặt nó trên bàn của tôi
 -i like the bigger one
 4 cái màn hình nào bạn muốn mua
 -tôi thích cái lớn hơn
+
+1. where did you buy that hat?
+-downt own
+1. bạn đã mua chiếc mũ đó ở đâu?
+-suy giảm
+
+2. where did you see mike
+-on the bus
+2. bạn đã thấy mike ở đâu
+-trên xe buýt
+
+3. where is the trade fair going to be held  this year?
+-beijing, i think
+3. Hội chợ thương mại sẽ được tổ chức ở đâu trong năm nay?
+-như ngữ, tôi nghĩ
+
+4. where is ms.sharon this evening?
+-she had an important meeting to go to
+4. ms.sharon tối nay ở đâu?
+-she đã có một cuộc họp quan trọng để đi đến
+
+5. where did you get that necktie
+-it was a gift from my son
+5. bạn lấy cái cà vạt đó ở đâu
+- đó là một món quà từ con trai tôi
+
+6. where should i put this e quipment
+set it here
+6. tôi nên đặt câu hỏi này ở đâu
+đặt nó ở đây
+
+
+1. in one's mailbox:trong hộp thư của một người
+2. in the file cabinet: trong tủ hồ sơ
+3. on one's desk: trên bàn của một người
+4. at the top of tha stairs: ở đầu cầu thang tha
+5. across the street: bên kia đường
+6. around the corner: quanh góc
+7. at the tront counter: tại quầy bán hàng
+8. by the front door: bằng cửa trước
+9. from the main door: từ cửa chính
+10. in tront of the lobby: trong tront của sảnh
+11. mear the park: công viên
+12. next to the hotel: bên cạnh khách sạn
+13. on the first floor: trên tầng đầu tiên
+14. on the next corner: ở góc tiếp theo
+15. opposite the building: đối diện tòa nhà
+16. over there: đằng kia
+17. straight down to: thẳng xuống
+18. to the post office: đến bưu điện
+
+ 

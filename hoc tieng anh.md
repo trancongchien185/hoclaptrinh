@@ -329,4 +329,53 @@ set it here
 17. straight down to: thẳng xuống
 18. to the post office: đến bưu điện
 
+ 1. whose turn is it to head the discussion group
+ - i believe altred
+ 1. đến lượt của nó để đứng đầu nhóm thảo luận
+  - tôi tin
+
+ 2. who is going to set up the table
+ - the facilities department will
+ 2. ai sẽ lập bàn
+  - bộ phận cơ sở sẽ
+
+ 3. who is in charge of the new branch
+ - the vice president
+3. người phụ trách chi nhánh mới
+  - Phó Chủ tịch
+
+ 4. who was assigned to your team
+ - it hasn't been decided yet
+4. người được chỉ định vào nhóm của bạn
+  - nó chưa được quyết định
+
+ 5. who is responsible for training the new staff
+ - i think that's your job
+5. người chịu trách nhiệm đào tạo nhân viên mới
+  - tôi nghĩ đó là công việc của bạn
+
+ 6. who taught you to play the violin
+ - i took a music class in collage
+ 6. người đã dạy bạn chơi violin
+  - tôi đã tham gia một lớp học âm nhạc trong ảnh ghép
+
+ 1. accountant: kế toán
+ 2. assistant:  trợ lý
+ 3. board of directors:  ban giám đốc
+ 4. chief exexutive officer:  cảnh sát trưởng
+ 5. division head:  trưởng phòng
+ 6. editor:  biên tập viên
+ 7. executive officer:  sĩ quan điều hành
+ 8. receptionst:  quầy lễ tân
+ 9. representative:  đại diện
+ 10. secretary:  thư ký
+ 11. security officer:  nhân viên an ninh
+ 12. senior director:  giám đốc cấp cao
+ 13. supervisor:  giám sát viên
+ 14. vice president:  phó chủ tịch
+ 15. persomel department:  bộ phận hồng ngoại
+ 16. public relations department:  phòng quan hệ công chúng
+ 17. purchasing department:  bộ phận mua hàng
+ 18. security:  bảo mật
+
  

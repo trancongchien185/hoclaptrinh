@@ -378,4 +378,37 @@ set it here
  17. purchasing department:  bộ phận mua hàng
  18. security:  bảo mật
 
- 
+ 1. why were you late for the meeting?
+ - i had some other work to finish
+ 1. tại sao bạn đến trễ cuộc họp?
+  - tôi đã có một số công việc khác để hoàn thành
+
+ 2. why are you going to hawai next week
+ - to attend my cousin's wedding
+  2. tại sao bạn sẽ đến Hawaii vào tuần tới
+  - tham dự đám cưới anh em họ của tôi
+
+ 3. why hasn't peter been promoted
+ - i have no idea
+3. tại sao peter chưa được thăng chức
+  - tôi không có ý kiến
+
+ 4. why hasn't our contractor called us black?
+ - i believe they did
+ 4. tại sao nhà thầu của chúng tôi không gọi chúng tôi là người da đen?
+  - tôi tin rằng họ đã làm
+
+ 5. why didn't you ~?
+ -loại câu hỏi này được sử dụng để hỏi lý dohoacwj mục đích của hành động đã xảy ra trong quá khứ
+ why didn't you call me yesterday?
+ i am sorry, i for got
+ tại sao hôm qua bạn không gọi cho tôi
+  tôi xin lỗi, tôi đã nhận
+
+ 6. why don't you~ ?
+ loại câu hỏi này được sử dụng để nêu gợi ý 
+ why don't you talk to the manager?
+ i'll give hime a call now
+ tại sao bạn không nói chuyện với người quản lý?
+  tôi sẽ gọi cho anh ấy ngay bây giờ
+

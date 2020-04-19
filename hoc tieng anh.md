@@ -412,3 +412,77 @@ set it here
  tại sao bạn không nói chuyện với người quản lý?
   tôi sẽ gọi cho anh ấy ngay bây giờ
 
+1. how will the package be sent
+- by plane
+1. gói sẽ được gửi như thế nào
+- bằng máy bay
+
+2. how will the company improve its sales
+- it hasn't been discussed yet
+2. công ty sẽ cải thiện doanh số bán hàng như thế nào
+- nó chưa được thảo luận
+
+3. how do you want to pay your bill
+- by cash 
+3. bạn muốn thanh toán hóa đơn như thế nào
+- bằng tiền mặt
+
+4. how was the seminar
+- very helpful
+4. Hội thảo như thế nào
+- rất hữu ích
+
+5. how do you prefer your steak cooked
+- medium ,please
+5. Làm thế nào để bạn thích bít tết của bạn nấu
+- vừa, làm ơn
+
+6. how long have you been at this departure
+- for about 3 years
+6. bạn đã đi được bao lâu
+- trong khoảng 3 năm
+
+7. how many people will be at the party
+- we will know  later this evening
+7. có bao nhiêu người sẽ tham gia bữa tiệc
+- chúng ta sẽ biết sau tối nay
+
+8. how much did the car sell for
+- half its original value
+8. chiếc xe đã bán được bao nhiêu
+- một nửa giá trị ban đầu của nó
+
+9. how soon can you finish your work
+- i'll be done in a minute now
+9. bao lâu bạn có thể hoàn thành công việc của bạn
+- tôi sẽ hoàn thành trong một phút
+
+10. how often should i change this filter
+- refer to this manual
+10. tôi nên thay đổi bộ lọc này bao lâu một lần
+- tham khảo hướng dẫn này
+
+11. how for is it to the museum from nere 
+- it takes is minutes by car
+11. làm thế nào để nó đến bảo tàng từ lúc này
+- mất vài phút đi xe
+
+12. how do you like your new laptop
+- it's much better than the last one
+12. bạn thích máy tính xách tay mới của bạn như thế nào
+- nó tốt hơn nhiều so với cái cuối cùng
+
+13. how do you feel about the test result
+- i'm satisfled with them 
+13. bạn cảm thấy thế nào về kết quả kiểm tra
+- tôi hài lòng với họ
+
+14. how did the trade fair go
+- it was quite successful
+14. Hội chợ thương mại đã diễn ra như thế nào
+- nó đã khá thành công
+
+15. how come you didn't show up last night
+- i had to do somw work
+15. tại sao tối qua bạn không xuất hiện
+- tôi phải làm việc gì đó

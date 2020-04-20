@@ -486,3 +486,23 @@ set it here
 - i had to do somw work
 15. tại sao tối qua bạn không xuất hiện
 - tôi phải làm việc gì đó
+
+1. would you prefer to meet tonight or tomorrow
+- i'm busy tonight
+1. bạn muốn gặp tối nay hay ngày mai
+- tối nay tôi bận
+
+2. do you want to get in line now or after lunch
+- lef't eat first
+2. bạn muốn xếp hàng ngay bây giờ hay sau bữa trưa
+- không được ăn trước
+
+3. did you turn in your report, report or are you still working on it
+- no, i haven't finisshed it yet
+3. bạn đã bật báo cáo, báo cáo hay bạn vẫn đang làm việc với nó
+- không, tôi chưa hoàn thành nó
+
+4. can you make the appointment, or do you want me to
+- i'll leave it to you
+4. bạn có thể hẹn gặp không, hay bạn muốn tôi
+- tôi sẽ để nó cho bạn

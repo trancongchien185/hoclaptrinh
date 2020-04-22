@@ -506,3 +506,79 @@ set it here
 - i'll leave it to you
 4. bạn có thể hẹn gặp không, hay bạn muốn tôi
 - tôi sẽ để nó cho bạn
+
+1. would you like to go to see a ball game today
+- that sounds great
+1. bạn có muốn đi xem một trận bóng hôm nay không
+- nghe có vẻ tuyệt vời
+
+2. would you like me to give you a ride 
+- if you don't mind
+2. bạn có muốn tôi cho bạn đi nhờ không
+- nếu bạn không phiền
+
+3. can you help me carry this bag
+- sure ,give it to me
+3. bạn có thể giúp tôi mang cái túi này không
+- chắc chắn, đưa nó cho tôi
+
+4. would you like to join us for dinner
+- yes ,it would be my pleasure
+4. bạn có muốn cùng chúng tôi ăn tối không
+- vâng, nó sẽ là niềm vui của tô
+
+5. why don't we share the rental cost 
+- that would work out well dor me
+5. tại sao chúng tôi không chia sẻ chi phí thuê
+- đó sẽ là công việc tốt cho tôi
+
+
+6. how about having a cup of coffee with me
+- sounds good 
+6. làm thế nào về việc có một tách cà phê với tôi
+- nghe hay đấy
+
+7. let's take a break
+- i'm afraid i can't
+7. chúng ta hãy nghỉ ngơi
+- tôi sợ tôi không thể
+
+8. how would you like to see s movie 
+- thanks, but i'm just too busy
+8. bạn muốn xem phim như thế nào
+- cảm ơn, nhưng tôi quá bận
+
+9. would you like me to take you to work
+- i'd appreciate that
+9. bạn có muốn tôi đưa bạn đi làm không
+- Tôi đánh giá cao điều đó
+
+10. do you want me to set the table 
+- thanks for the offer
+10. Bạn có muốn tôi đặt bàn không?
+- cảm ơn lời đề nghị
+
+11. would you like to have another cup of coffee 
+- thank you , but i've had enough
+11. bạn có muốn uống thêm một tách cà phê không
+- cảm ơn bạn, nhưng tôi đã có đủ
+
+12. can i help you with your luggage
+- i can manage thanks
+12. tôi có thể giúp bạn với hành lý của bạn
+- tôi có thể quản lý cảm ơn
+
+13. could you take those boxes away
+- sure where would you like them 
+13. bạn có thể mang những cái hộp đi
+- chắc chắn bạn muốn chúng ở đâu
+
+14. may i borrow your jacket
+- go right a head
+14. tôi có thể mượn áo khoác của bạn không
+- đi ngay một cái đầu
+
+15. woud you mind if i go along with you 
+- not at all
+15. bạn có phiền không nếu tôi đi cùng bạn
+- không có gì

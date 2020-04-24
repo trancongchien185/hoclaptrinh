@@ -582,3 +582,68 @@ set it here
 - not at all
 15. bạn có phiền không nếu tôi đi cùng bạn
 - không có gì
+
+1. do you have a seating preference
+- i would like an aisle seat
+1. bạn có một sở thích chỗ ngồi
+- tôi muốn một chỗ ngồi ở lối đi
+
+2. did you set the table
+- not yet
+2. bạn đã đặt bàn chưa
+- chưa
+
+3. does ellen heed any assistance
+- no, she's almost done
+3. ellen có chú ý gì không
+- không, cô ấy gần xong rồi
+
+4. do you play tennis
+- yes, every weekend
+4. bạn có chơi tennis không
+- vâng, mỗi cuối tuần
+
+5. have you met bob roy
+- i don't think so
+5. bạn đã gặp bob roy
+- tôi không nghĩ vậy
+
+6. have you finished entering the data
+- i'm still working on it 
+6. bạn đã nhập xong dữ liệu
+- tôi vẫn đang làm việc với nó
+
+7. are you doing to meet your client this afternoon
+- i have another appointment today
+7. bạn đang làm gì để gặp khách hàng của bạn chiều nay
+- hôm nay tôi có một cuộc hẹn khác
+
+8. is the service chage included in this amount
+- yes, it's all one price
+8. là dịch vụ bao gồm trong số tiền này
+- vâng, đó là tất cả một giá
+
+9. is there water in the cup
+- no, it's empty
+9. có nước trong cốc không
+- không, nó trống
+
+10. were you able to reach the sales manager
+- i got in touch with him yesterday
+10. bạn đã có thể tiếp cận người quản lý bán hàng
+- tôi đã liên lạc với anh ấy ngày hôm qua
+
+11. can you tell me where i can get a parking permit
+- go to the information desk
+11. bạn có thể cho tôi biết nơi tôi có thể xin giấy phép đậu xe
+- đi đến bàn thông tin
+
+12. may i ask why you're calling
+- i need to talk to craig
+12. tôi có thể hỏi tại sao bạn gọi
+- tôi cần nói chuyện với craig
+
+13. did you fird out why the ship ment got here late
+- no, i'm still working into it
+13. bạn có hiểu tại sao tàu đến đây muộn không
+- không, tôi vẫn đang làm việc với nó

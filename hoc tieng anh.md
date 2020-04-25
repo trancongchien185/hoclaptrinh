@@ -647,3 +647,48 @@ set it here
 - no, i'm still working into it
 13. bạn có hiểu tại sao tàu đến đây muộn không
 - không, tôi vẫn đang làm việc với nó
+
+1. i'm considering joining the biology researchers club
+- i sound like a good opportunity
+1. Tôi đang xem xét tham gia câu lạc bộ các nhà nghiên cứu sinh học
+- tôi nghe có vẻ là một cơ hội tốt
+
+2. i think mary's an excellent designer
+- yes, she is very famonus in that field
+1. Tôi đang xem xét tham gia câu lạc bộ các nhà nghiên cứu sinh học
+- tôi nghe có vẻ là một cơ hội tốt
+1. Tôi xem và tham gia
+- tôi nghe có vẻ là một trong hai
+
+2. tôi nghĩ mary là một nhà thiết kế xuất sắc
+- vâng, cô ấy rất nổi tiếng trong lĩnh vực đó
+
+3. tha manager said were still short on staff
+- lef't hope that they hire enough staff nest year
+3. tha quản lý nói vẫn còn thiếu nhân viên
+- không hy vọng rằng họ thuê đủ nhân viên năm tổ
+
+4. i didn't expect to see mr.packer here 
+- yes, i was surprised , too
+4. Tôi không mong đợi để xem mr.packer ở đây
+- vâng, tôi cũng ngạc nhiên
+
+5. i don't like to go out whent it rains like this
+- i don't like to get wet, either
+5. Tôi không thích đi ra ngoài khi trời mưa như thế này
+- tôi cũng không muốn bị ướt
+
+6. i need to remind you that it's going to be very colt tonight
+- i'm going to bring my jacket
+6. Tôi cần phải nhắc bạn rằng tối nay sẽ rất nhiều
+- tôi sẽ mang áo khoác
+
+7. excuse me i'm looking for the nearest post office
+- turn left at the next corner
+7. xin lỗi tôi đang tìm bưu điện gần nhất
+- rẽ trái ở góc tiếp theo
+
+8. i thought you left for new york last week
+- no ,the meeting was cancelled
+8. Tôi nghĩ bạn đã rời đi new york tuần trước
+- không, cuộc họp đã bị hủy

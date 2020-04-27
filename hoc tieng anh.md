@@ -692,3 +692,25 @@ set it here
 - no ,the meeting was cancelled
 8. Tôi nghĩ bạn đã rời đi new york tuần trước
 - không, cuộc họp đã bị hủy
+
+1. subject :chủ ngữ 
+2. verb : động từ
+3. boject : tân ngữ
+4. complement : từ bổ nghĩa
+5. midifier : bổ ngữ
+
+1. subject + verb
+- ai/cái gì làm ra hành động gì
+vd. i work at home: tôi làm việc tại nhà
+2. subject + verb + subject complement
+- ai/cái gì như thế nào
+vd. she is the new manager: cô ấy là người quản lý mới
+3. subject + verb + object
+ai/cái gì làm gì ai/cái gì
+vd. i met jim : tôi đã gặp jim
+4. subject + verb + in direct object + direct object
+- ai/ cái gì nói,gửi,đưa cho ai cái gì
+vd. he sent us the letter: anh ấy đã gửi thư cho chúng tôi
+5. subject + verb + object + object complement
+- ai/cái gì/cái gì trở nên cảm thấy như thế nào
+vd: he makes me feel good : anh ấy làm tôi cảm thấy tốt
